@@ -3,7 +3,7 @@ Repository that teaches how to program using parallel libraries in Python, Fortr
 
 The goal of this respository is to provide a simple, easy to understand resource that explains:
 
-  1. How to read, write, and execute parallel programs 
+  1. How to read, write, and execute parallel programs in popular programming languages
   2. Differences between multiprocessing vs multithreading
   3. Differences between synchronous vs asynchronous operations
 
