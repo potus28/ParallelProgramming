@@ -7,5 +7,5 @@ The goal of this respository is to provide a simple, easy to understand resource
   2. Differences between multiprocessing vs multithreading
   3. Differences between synchronous vs asynchronous operations
 
-While this repository and the example programs are mainly going to be focused towards a scientific programming or data science audience, the concepts learned in this repository can be applied to a wide vareity of applications.
+While this repository and the example programs are mainly going to be focused towards a scientific programming or data science audience, the concepts learned in this repository can in general be applied to a wide vareity of applications.
 
